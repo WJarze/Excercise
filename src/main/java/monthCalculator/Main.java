@@ -2,8 +2,8 @@ package monthCalculator;
 
 public class Main {
     public static void main(String[] args) {
-        Month month = new Month ( );
-        System.out.println ( month.dayNumber ( 2022 , 7 ) );
+        MonthCalculator monthCalculator = new MonthCalculator ( );
+        System.out.println ( monthCalculator.dayNumber ( 2022 , 7 ) );
     }
 
 
