@@ -16,8 +16,6 @@ X
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 W
 'src/main/java/monthCalculator/Main.java,2\0\2051296f21267fbe75224e762c3e4c488601445c
-P
- src/main/java/SortSing/Main.java,6\7\677a64dced832a86c872f56de716e62a4d67087c
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 <
