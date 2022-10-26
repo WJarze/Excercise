@@ -30,3 +30,25 @@ V
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 W
 'src/main/java/monthCalculator/Main.java,2\0\2051296f21267fbe75224e762c3e4c488601445c
+P
+ src/main/java/copyFile/Main.java,c\4\c4e4a4ae21880a503fd5b823bcf312f889eba282
+P
+ src/main/java/copyFile/Copy.java,4\d\4d7e7c071ec7b7dc82cad1ef7f0b4a263bc7d8d2
+T
+$src/test/java/copyFile/CopyTest.java,a\4\a479f97ae020474ed8906de47ac2da35b97568e5
+t
+Dsrc/test/java/monthCalculatorTest/MonthCalculatorCalculatorTest.java,e\3\e3a30b6e9487d60e6d5a149e6671633e8a841367
+\
+,src/main/java/monthCalculator/Calculate.java,7\8\78d80c43926693e84ce61f3f018093422f526bc7
+g
+7src/test/java/addElementToArrayTest/AddElementTest.java,d\7\d76109d90cf45e2d16eaf23243bc341cfdb030f2
+]
+-src/main/java/addArray/AddElementToArray.java,9\4\945050638e9acb2a6e00160a9a98cc232be31aa5
+S
+#src/main/java/sortSing/Jukebox.java,e\1\e1fdaa2a90b7f1dceba73aa16684c6423d27926b
+P
+ src/main/java/addArray/Main.java,b\9\b9a8ffe60053cfa7bcfd7aa6bc3792b902554e6b
+P
+ src/main/java/sortSing/Sing.java,2\8\2809927cada79b1b1d564d9a0b6e5ea95e800ff8
+b
+2src/test/java/sumOfDivisorTest/SumDivisorTest.java,b\7\b701a4c03fb0f44d7e8a330e0e3a62d9008f83a6
