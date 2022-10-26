@@ -32,16 +32,8 @@ W
 'src/main/java/monthCalculator/Main.java,2\0\2051296f21267fbe75224e762c3e4c488601445c
 P
  src/main/java/copyFile/Main.java,c\4\c4e4a4ae21880a503fd5b823bcf312f889eba282
-P
- src/main/java/copyFile/Copy.java,4\d\4d7e7c071ec7b7dc82cad1ef7f0b4a263bc7d8d2
-T
-$src/test/java/copyFile/CopyTest.java,a\4\a479f97ae020474ed8906de47ac2da35b97568e5
-t
-Dsrc/test/java/monthCalculatorTest/MonthCalculatorCalculatorTest.java,e\3\e3a30b6e9487d60e6d5a149e6671633e8a841367
 \
 ,src/main/java/monthCalculator/Calculate.java,7\8\78d80c43926693e84ce61f3f018093422f526bc7
-g
-7src/test/java/addElementToArrayTest/AddElementTest.java,d\7\d76109d90cf45e2d16eaf23243bc341cfdb030f2
 ]
 -src/main/java/addArray/AddElementToArray.java,9\4\945050638e9acb2a6e00160a9a98cc232be31aa5
 S
@@ -52,3 +44,21 @@ P
  src/main/java/sortSing/Sing.java,2\8\2809927cada79b1b1d564d9a0b6e5ea95e800ff8
 b
 2src/test/java/sumOfDivisorTest/SumDivisorTest.java,b\7\b701a4c03fb0f44d7e8a330e0e3a62d9008f83a6
+Z
+*src/test/java/fibonacci/FibonacciTest.java,7\6\76b6daf30a1b63792b7e70550fb0c2af9618703e
+P
+ src/main/java/sortSing/Main.java,5\4\54dc0d7df81cbe8c0f81e747c8d36f4783ce0f6d
+b
+2src/main/java/monthCalculator/MonthCalculator.java,3\1\314b08ecd06f1a67f6ecaae5438d2e0209a1c478
+<
+SingList.txt,e\e\eef331097eae51b57e32e6712b60185f8eb1692c
+Z
+*src/main/java/sumOfDivisor/SumDivisor.java,f\c\fc395a24bb4c930ca1978a458511a0dff5b450b6
+T
+$src/main/java/sumOfDivisor/Main.java,e\5\e5368a1f2da4a3c1c79eeb312477137b4749b231
+Y
+)src/main/java/sumOfDivisor/calculate.java,7\7\776d4e26268863f9e1f756f1fe7d7cca49a22182
+W
+'src/main/java/comparingPoints/Main.java,d\3\d3f08cef9d8f9cc15f2a9fd9e86013288db35476
+X
+(src/main/java/comparingPoints/Point.java,6\f\6f23113756fa43e29d0aa1104f7e78ec416ca11c

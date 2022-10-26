@@ -15,7 +15,7 @@ class CopyTest {
     Copy copy = new Copy ( );
 
     @Test
-    public void givenNIO2_whenCopied_thenCopyExistsWithSameContents()
+    public void given_whenCopied_thenCopyExistsWithSameContents()
             throws IOException {
         //when
         copy.CopyFile ( ORGINAL_PATH_NAME , PATH_NAME );
