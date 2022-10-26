@@ -1,4 +1,4 @@
-package SortSing;
+package sortSing;
 
 import java.io.BufferedReader;
 import java.io.File;

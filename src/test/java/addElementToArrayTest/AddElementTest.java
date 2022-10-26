@@ -1,6 +1,6 @@
 package addElementToArrayTest;
 
-import AddArray.AddElementToArray;
+import addArray.AddElementToArray;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

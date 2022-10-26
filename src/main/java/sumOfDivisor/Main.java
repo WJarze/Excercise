@@ -1,6 +1,4 @@
-package SumOfDivisor;
-
-import SortSing.Jukebox;
+package sumOfDivisor;
 
 public class Main {
     public static void main(String[] args) {

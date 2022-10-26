@@ -3,10 +3,30 @@ Y
 )src/main/java/SumOfDivisor/calculate.java,b\7\b728dd3b3b446b18754f04e7a45442155a2b09ba
 S
 #src/main/java/SortSing/Jukebox.java,4\6\4674ead1fdab0b2c4a61f80fe00ffb605c724965
-b
-2src/test/java/sumOfDivisorTest/SumDivisorTest.java,b\7\b701a4c03fb0f44d7e8a330e0e3a62d9008f83a6
 Z
 *src/main/java/SumOfDivisor/SumDivisor.java,a\9\a954cce6ddb5ab8a5346acf398fe02be98f1ed4f
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+T
+$src/main/java/SumOfDivisor/Main.java,0\1\01494be87a9009f687c7979a3345fc6558f933ef
+P
+ src/main/java/SortSing/Sing.java,a\7\a7667b5d5909574b854416edcec82cb320624f3e
+]
+-src/main/java/AddArray/AddElementToArray.java,6\b\6bc38b317ae77369120fd1b276abd2ae73656160
+P
+ src/main/java/AddArray/Main.java,9\6\96a5494579c72815daf76b1d1561d05d59ffa54e
+@
+SingListCopy.txt,5\8\5800fda25560cde2c4584dd2e82402e58794fb95
+Q
+!src/main/java/fibonacci/Main.java,0\2\02c82263e508ba3d2b9dad0910914055f60c5b42
+R
+"src/main/java/fibonacci/Check.java,2\a\2a915df661cbec33faa625e66583f44bec9d25de
+V
+&src/main/java/fibonacci/Fibonacci.java,5\b\5b265ac2dc62af860a7ed104fe97eb9a5aecdf89
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+W
+'src/main/java/monthCalculator/Main.java,2\0\2051296f21267fbe75224e762c3e4c488601445c

@@ -1,4 +1,4 @@
-package SumOfDivisor;
+package sumOfDivisor;
 
 public class SumDivisor implements calculate{
     @Override

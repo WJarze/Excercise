@@ -1,6 +1,6 @@
 package sumOfDivisorTest;
 
-import SumOfDivisor.SumDivisor;
+import sumOfDivisor.SumDivisor;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
