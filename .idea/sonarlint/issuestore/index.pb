@@ -53,8 +53,6 @@ b
 ]
 -src/main/java/addArray/AddElementToArray.java,9\4\945050638e9acb2a6e00160a9a98cc232be31aa5
 W
-'src/main/java/comparingPoints/Main.java,d\3\d3f08cef9d8f9cc15f2a9fd9e86013288db35476
-W
 'src/main/java/monthCalculator/Main.java,2\0\2051296f21267fbe75224e762c3e4c488601445c
 Y
 )src/main/java/overlappingFigure/Main.java,1\5\15e52bb4284c809b949f0a132e89c15178c239e8

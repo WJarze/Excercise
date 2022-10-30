@@ -2,7 +2,7 @@ package array.compareArrays;
 
 public class Compare {
 
-    int checkMatchesNumber(int[] tab1,int[] tab2){
+    public int checkMatchesNumber(int[] tab1 , int[] tab2){
         int val = 0;
         for (int i = 0; i < tab1.length; i++) {
             for (int j = 0; j < tab2.length; j++) {

@@ -1,6 +1,6 @@
 package IndexTableElement;
 
-import org.junit.Assert;
+import array.IndexTableElement.Index;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 

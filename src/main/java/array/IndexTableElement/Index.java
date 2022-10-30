@@ -1,4 +1,4 @@
-package IndexTableElement;
+package array.IndexTableElement;
 
 public class Index {
     public int element(int[] tab , int matches) {
