@@ -1,4 +1,5 @@
 package compareArrays;
+import array.compareArrays.Compare;
 import org.junit.Test;
 
 import org.junit.Assert;

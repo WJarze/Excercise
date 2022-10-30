@@ -32,8 +32,6 @@ P
  src/main/java/sortSing/Sing.java,2\8\2809927cada79b1b1d564d9a0b6e5ea95e800ff8
 <
 SingList.txt,e\e\eef331097eae51b57e32e6712b60185f8eb1692c
-Z
-*src/main/java/sumOfDivisor/SumDivisor.java,f\c\fc395a24bb4c930ca1978a458511a0dff5b450b6
 X
 (src/main/java/comparingPoints/Point.java,6\f\6f23113756fa43e29d0aa1104f7e78ec416ca11c
 7
@@ -42,8 +40,6 @@ V
 &src/main/java/factorial/Calculate.java,4\8\4888f49619ef93e4b2a75e663e4128b9463fbd3f
 P
  src/main/java/copyFile/Copy.java,4\d\4d7e7c071ec7b7dc82cad1ef7f0b4a263bc7d8d2
-J
-src/main/java/Sum/Sum.java,c\6\c67238abd1a41ddef1c2622bf3cc562dbc90efe2
 b
 2src/test/java/sumOfDivisorTest/SumDivisorTest.java,b\7\b701a4c03fb0f44d7e8a330e0e3a62d9008f83a6
 Z
@@ -52,8 +48,6 @@ Z
 *src/test/java/factorial/CalculateTest.java,f\4\f440a4a89d7d9b0ac57242b35f10acac1e75b39c
 T
 $src/test/java/copyFile/CopyTest.java,a\4\a479f97ae020474ed8906de47ac2da35b97568e5
-g
-7src/test/java/addElementToArrayTest/AddElementTest.java,d\7\d76109d90cf45e2d16eaf23243bc341cfdb030f2
 b
 2src/main/java/monthCalculator/MonthCalculator.java,3\1\314b08ecd06f1a67f6ecaae5438d2e0209a1c478
 ]
@@ -74,3 +68,7 @@ V
 &src/test/java/repeats/RepeatsTest.java,3\d\3d4706e313955cd3ab3c872a60b8c0013d69855d
 R
 "src/test/java/SumTest/SumTest.java,b\e\be816e8a790efb78254b1dd9266c28d5a6659d39
+Y
+)src/main/java/SearchingTheWords/Main.java,8\f\8f9951763f834f00dee244585712e2b17c822a1f
+]
+-src/main/java/SearchingTheWords/WordList.java,2\0\209fd22a0a0372e9f8c52584c2db11bfcfe23e12

@@ -1,4 +1,4 @@
-package compareArrays;
+package array.compareArrays;
 
 public class Compare {
 
