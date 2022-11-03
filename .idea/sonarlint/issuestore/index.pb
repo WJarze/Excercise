@@ -30,8 +30,6 @@ P
 SingList.txt,e\e\eef331097eae51b57e32e6712b60185f8eb1692c
 X
 (src/main/java/comparingPoints/Point.java,6\f\6f23113756fa43e29d0aa1104f7e78ec416ca11c
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 V
 &src/main/java/factorial/Calculate.java,4\8\4888f49619ef93e4b2a75e663e4128b9463fbd3f
 P
@@ -92,3 +90,23 @@ $src/main/java/sumOfDivisor/Main.java,e\5\e5368a1f2da4a3c1c79eeb312477137b4749b
 .src/test/java/IndexTableElement/IndexTest.java,5\c\5c0b23ce98f85a7e48e2f418bc98fd4f600934ff
 _
 /src/main/java/array/IndexTableElement/Main.java,6\8\6855fac0d3355393db1416388b4d23583a92b9a7
+e
+5src/test/java/remoweElementFromArray/ElementTest.java,e\7\e7cfadfcb223da31317cc24ea3250e522dbe4457
+Z
+*src/main/java/sumOfDivisor/SumDivisor.java,f\c\fc395a24bb4c930ca1978a458511a0dff5b450b6
+`
+0src/main/java/array/IndexTableElement/Index.java,5\5\557021a99a24abdd1e23ebf185dc1f2ea5390ffc
+W
+'src/main/java/comparingPoints/Main.java,d\3\d3f08cef9d8f9cc15f2a9fd9e86013288db35476
+\
+,src/main/java/arraylist/joinarray/Array.java,7\9\797e80a4633fd31b98c765391f52a488250b05c6
+`
+0src/test/java/arraylist/joinarray/ArrayTest.java,a\f\af57df3f0fb2dd46caef8cdce1cd07822717db8f
+[
++src/main/java/array/compareArrays/Main.java,6\f\6fc1499d0df8c1310c1131e6c06bb995fba24140
+[
++src/main/java/arraylist/joinarray/Main.java,5\3\53825ef5d32c99f2bf562188029cb7d7087be5b0
+S
+#src/main/java/io/fileShow/Main.java,a\6\a60bba59c2a6987ac1799f363ea65cd84486188b
+T
+$src/main/java/io/fileShow/Files.java,a\c\acd779ce23320eda6536fb866143720f88346531
