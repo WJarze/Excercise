@@ -32,8 +32,6 @@ X
 (src/main/java/comparingPoints/Point.java,6\f\6f23113756fa43e29d0aa1104f7e78ec416ca11c
 V
 &src/main/java/factorial/Calculate.java,4\8\4888f49619ef93e4b2a75e663e4128b9463fbd3f
-P
- src/main/java/copyFile/Copy.java,4\d\4d7e7c071ec7b7dc82cad1ef7f0b4a263bc7d8d2
 b
 2src/test/java/sumOfDivisorTest/SumDivisorTest.java,b\7\b701a4c03fb0f44d7e8a330e0e3a62d9008f83a6
 Z
@@ -110,3 +108,15 @@ S
 #src/main/java/io/fileShow/Main.java,a\6\a60bba59c2a6987ac1799f363ea65cd84486188b
 T
 $src/main/java/io/fileShow/Files.java,a\c\acd779ce23320eda6536fb866143720f88346531
+U
+%src/main/java/io/fileExist/Files.java,1\c\1c36cab11837ecc8c1f857ab151fd20dd9af4037
+X
+(src/test/java/io/fileShow/FilesTest.java,1\6\161428dbedae5b016f17341ee18785b64d3c3abc
+L
+src/main/java/Enum/Main.java,5\a\5a4a97d37f296b0f7ea44e678baf846b6a65a0fe
+[
++src/main/java/io/fileExist/MethodFiles.java,8\c\8cbfeb91f177926a43cf2d9c6109a4c35a489c02
+_
+/src/test/java/io/fileExist/MethodFilesTest.java,c\6\c6f997dddc0090a1dad9cc444e6624292e4ae1d4
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

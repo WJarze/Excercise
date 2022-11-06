@@ -7,6 +7,8 @@ public class Main {
         String pathName = "E:\\Nauka\\Programowanie\\Ksiązki programowanie\\java\\Horstmann";
         File file = new File ( pathName );
         FileModTime fileModifications = new FileModTime( file);
-        System.out.println ( fileModifications.whenModification (  ));
+        System.out.println ( fileModifications.whenModification (  ) + "\n"
+        + fileModifications.showDate ());
+
     }
 }

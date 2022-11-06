@@ -1,6 +1,7 @@
 package io.fileModificateTime;
 
 import java.io.File;
+import java.util.Date;
 
 public class FileModTime {
     File file;
@@ -11,5 +12,9 @@ public class FileModTime {
 
     public long whenModification() {
         return file.lastModified ( );
+    }
+
+    public Date showDate(){
+        return new Date ( whenModification() );
     }
 }
