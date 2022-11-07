@@ -1,12 +1,17 @@
-package collection.arrayList;
+package collection.arrayList.create;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Points {
-    ArrayList<Point> points;
+    List<Point> points;
 
     public Points(ArrayList<Point> points) {
         this.points = points;
+    }
+
+    public List<Point> getPoints() {
+        return points;
     }
 
     public void add(Point point) {
@@ -17,12 +22,16 @@ public class Points {
         }
     }
 
-    public ArrayList<Point> getPoints() {
-        return points;
+    public Point getElement(int i) {
+        return points.get ( i );
     }
 
-    public void setPoints(ArrayList<Point> points) {
-        this.points = points;
+    public void update(int i , Point point) {
+        if ( point instanceof Point ) {
+            points.add ( i , point );
+        } else {
+            System.out.println ( "null" );
+        }
     }
 
     @Override

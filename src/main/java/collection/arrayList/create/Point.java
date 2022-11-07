@@ -1,4 +1,4 @@
-package collection.arrayList;
+package collection.arrayList.create;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

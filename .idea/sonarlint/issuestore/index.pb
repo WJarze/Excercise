@@ -120,3 +120,33 @@ _
 /src/test/java/io/fileExist/MethodFilesTest.java,c\6\c6f997dddc0090a1dad9cc444e6624292e4ae1d4
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+h
+8src/test/java/io/fileModificateTime/FileModTimeTest.java,c\c\cc9afd5517ae8169fca222fca24db0bb2ba0d167
+S
+#src/main/java/io/fileSize/Main.java,e\f\ef0455aad7503d8227ffb23561cd692c65525b97
+c
+3src/main/java/io/filesFromSpecifiedFolder/Main.java,6\9\697698774914e1b7e06bf2251e1f2252c472c460
+T
+$src/main/java/io/excelFile/Main.java,8\c\8c769f868284f660354a2d4bd4eb3fbfb51b48d0
+U
+%src/main/java/io/excelFile/Excel.java,c\f\cfec2232c51e844e4017ca7e5b0f79c6f9648d84
+d
+4src/main/java/io/fileModificateTime/FileModTime.java,2\0\20e74d582316b22ae8d6aa49777b7cc6d2c2a9fe
+]
+-src/main/java/io/fileModificateTime/Main.java,b\4\b4627e5315fb089ac51002063d6db867cf46c124
+Z
+*src/main/java/io/readFromConsole/Main.java,6\e\6e6ecc2ddf0b5e720833cb942a594f16e5035279
+Z
+*src/main/java/io/readFromConsole/Read.java,0\2\0213a85b76f70f904bfc2a94a5ca44b7b815f639
+P
+ src/main/java/copyFile/Main.java,c\4\c4e4a4ae21880a503fd5b823bcf312f889eba282
+N
+src/main/java/Enum/MyEnum.java,0\a\0a6fea382df1faa07e373acc59353358cc756c32
+V
+&src/main/java/UnixDateFormat/Main.java,3\e\3e7255aea7ff7155e9121b53b21183f9f84f287d
+]
+-src/main/java/collection/linkedList/Main.java,e\7\e7f25ec123afdac6e5ca6a340f01afcc8cea1c6c
+P
+ src/main/java/copyFile/Copy.java,4\d\4d7e7c071ec7b7dc82cad1ef7f0b4a263bc7d8d2
+T
+$src/main/java/io/fileExist/Main.java,1\7\171032e3213f69d51fa550b2a65c781d018fdcd5
