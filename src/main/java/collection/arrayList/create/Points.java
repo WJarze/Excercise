@@ -1,12 +1,11 @@
 package collection.arrayList.create;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Points {
     List<Point> points;
 
-    public Points(ArrayList<Point> points) {
+    public Points(List<Point> points) {
         this.points = points;
     }
 

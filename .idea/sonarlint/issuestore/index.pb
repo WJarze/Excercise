@@ -138,8 +138,6 @@ N
 src/main/java/Enum/MyEnum.java,0\a\0a6fea382df1faa07e373acc59353358cc756c32
 V
 &src/main/java/UnixDateFormat/Main.java,3\e\3e7255aea7ff7155e9121b53b21183f9f84f287d
-]
--src/main/java/collection/linkedList/Main.java,e\7\e7f25ec123afdac6e5ca6a340f01afcc8cea1c6c
 P
  src/main/java/copyFile/Copy.java,4\d\4d7e7c071ec7b7dc82cad1ef7f0b4a263bc7d8d2
 T
