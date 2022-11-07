@@ -1,13 +1,14 @@
 package collection.arrayList.joinarray;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 
 
     public static void main(String[] args) {
 
-        ArrayList<String> array1 = new ArrayList<> (  );
+        List<String> array1 = new ArrayList<> (  );
         array1.add( "java");
         array1.add( "is");
         array1.add( "the");

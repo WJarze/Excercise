@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Array {
 
-    public List<String> join(ArrayList<String> array1, ArrayList<String> array2){
+    public List<String> join(List<String> array1, List<String> array2){
         List<String> arrayJoin = new ArrayList<> ();
         arrayJoin.addAll ( array1 );
         arrayJoin.addAll ( array2 );
