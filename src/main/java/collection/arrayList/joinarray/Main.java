@@ -1,4 +1,4 @@
-package arraylist.joinarray;
+package collection.arrayList.joinarray;
 
 import java.util.ArrayList;
 

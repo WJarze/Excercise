@@ -11,7 +11,7 @@ public class update {
         users.add ( user );
         users.add ( user1 );
         System.out.println ( users );
-        users.update(1,user2);
+        users.update(0,user2);
         for (User elem : users.getUserList ( )) {
             System.out.println ( elem );
         }

@@ -70,8 +70,6 @@ J
 src/main/java/Sum/Sum.java,c\6\c67238abd1a41ddef1c2622bf3cc562dbc90efe2
 g
 7src/test/java/addElementToArrayTest/AddElementTest.java,d\7\d76109d90cf45e2d16eaf23243bc341cfdb030f2
-c
-3src/main/java/array/addArray/AddElementToArray.java,1\6\1692d1f34cc2098a7a0e8304bd26c7bfb40a6193
 g
 7src/main/java/array/remoweElementFromArray/Element.java,0\0\00b39066da101d954db1ef01732b382c9c50bd2e
 V
@@ -96,10 +94,6 @@ Z
 0src/main/java/array/IndexTableElement/Index.java,5\5\557021a99a24abdd1e23ebf185dc1f2ea5390ffc
 W
 'src/main/java/comparingPoints/Main.java,d\3\d3f08cef9d8f9cc15f2a9fd9e86013288db35476
-\
-,src/main/java/arraylist/joinarray/Array.java,7\9\797e80a4633fd31b98c765391f52a488250b05c6
-`
-0src/test/java/arraylist/joinarray/ArrayTest.java,a\f\af57df3f0fb2dd46caef8cdce1cd07822717db8f
 [
 +src/main/java/array/compareArrays/Main.java,6\f\6fc1499d0df8c1310c1131e6c06bb995fba24140
 [

@@ -1,6 +1,9 @@
 package arraylist.joinarray;
 
+import collection.arrayList.joinarray.Array;
+import collection.arrayList.joinarray.Main;
 import java.util.ArrayList;
+import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
  
@@ -21,7 +24,7 @@ public class ArrayTest {
         array2.add( "in");
         array2.add( "the");
         array2.add( "world");
-        ArrayList<String> arrayJoin = array.join(array1, array2);
+        List<String> arrayJoin = array.join(array1, array2);
         int length1 = array1.size();
         int length2 = array2.size();
         int lengthJoin = arrayJoin.size();
