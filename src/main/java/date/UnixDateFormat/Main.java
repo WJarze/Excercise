@@ -1,4 +1,4 @@
-package UnixDateFormat;
+package date.UnixDateFormat;
 
 import java.util.Date;
 import org.slf4j.Logger;

@@ -1,10 +1,9 @@
 package UnixDateFormat;
 
+import date.UnixDateFormat.FormatDate;
 import java.util.Date;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class FormatDateTest {
 

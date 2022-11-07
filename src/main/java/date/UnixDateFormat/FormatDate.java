@@ -1,4 +1,4 @@
-package UnixDateFormat;
+package date.UnixDateFormat;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

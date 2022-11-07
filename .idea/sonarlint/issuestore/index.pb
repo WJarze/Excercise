@@ -28,8 +28,6 @@ P
  src/main/java/sortSing/Sing.java,2\8\2809927cada79b1b1d564d9a0b6e5ea95e800ff8
 <
 SingList.txt,e\e\eef331097eae51b57e32e6712b60185f8eb1692c
-X
-(src/main/java/comparingPoints/Point.java,6\f\6f23113756fa43e29d0aa1104f7e78ec416ca11c
 V
 &src/main/java/factorial/Calculate.java,4\8\4888f49619ef93e4b2a75e663e4128b9463fbd3f
 b
@@ -48,10 +46,6 @@ Y
 )src/main/java/overlappingFigure/Main.java,1\5\15e52bb4284c809b949f0a132e89c15178c239e8
 \
 ,src/main/java/UnixDateFormat/FormatDate.java,d\7\d75acb2c3c9b3ed45a65931522cf2b0d3296b071
-`
-0src/test/java/UnixDateFormat/FormatDateTest.java,3\c\3ca2cf8a255b86d73d3b37a72f601a2eab5906d0
-R
-"src/main/java/repeats/Repeats.java,9\d\9dbc34ec850a1a03f14474551cff344875038e77
 V
 &src/test/java/repeats/RepeatsTest.java,3\d\3d4706e313955cd3ab3c872a60b8c0013d69855d
 R
@@ -92,8 +86,6 @@ Z
 *src/main/java/sumOfDivisor/SumDivisor.java,f\c\fc395a24bb4c930ca1978a458511a0dff5b450b6
 `
 0src/main/java/array/IndexTableElement/Index.java,5\5\557021a99a24abdd1e23ebf185dc1f2ea5390ffc
-W
-'src/main/java/comparingPoints/Main.java,d\3\d3f08cef9d8f9cc15f2a9fd9e86013288db35476
 [
 +src/main/java/array/compareArrays/Main.java,6\f\6fc1499d0df8c1310c1131e6c06bb995fba24140
 [
