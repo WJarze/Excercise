@@ -8,7 +8,8 @@ import java.util.stream.Collectors;
 
 public class Repeats {
     List<Integer> input = Arrays.asList ( 6 , 6 , 1 , 5 , 5 , 5 , 5 , 5 , 1 , 5 , 6 , 5 , 8 , 5 );
-    Map<Integer, Long> result = input.stream ( ).collect ( Collectors.groupingBy ( roll -> roll , Collectors.counting ( ) ) );
+    Map<Integer, Long> result = input.stream ( )
+            .collect ( Collectors.groupingBy ( roll -> roll , Collectors.counting ( ) ) );
     public Long maxValueInMap = (Collections.max ( result.values ( ) ));
 
     public void show() {
