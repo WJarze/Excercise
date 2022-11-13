@@ -1,4 +1,4 @@
-package monthCalculator;
+package data.monthCalculator;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package monthCalculator;
+package data.monthCalculator;
 
 import java.time.YearMonth;
 

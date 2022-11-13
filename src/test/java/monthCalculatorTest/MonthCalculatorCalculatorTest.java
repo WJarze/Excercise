@@ -1,7 +1,7 @@
 package monthCalculatorTest;
 
 
-import monthCalculator.MonthCalculator;
+import data.monthCalculator.MonthCalculator;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.params.ParameterizedTest;

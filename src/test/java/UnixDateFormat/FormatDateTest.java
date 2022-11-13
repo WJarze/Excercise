@@ -1,6 +1,6 @@
 package UnixDateFormat;
 
-import date.UnixDateFormat.FormatDate;
+import data.date.UnixDateFormat.FormatDate;
 import java.util.Date;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
