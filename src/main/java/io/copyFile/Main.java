@@ -1,4 +1,4 @@
-package copyFile;
+package io.copyFile;
 
 public class Main {
 

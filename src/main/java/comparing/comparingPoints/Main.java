@@ -1,4 +1,4 @@
-package comparingPoints;
+package comparing.comparingPoints;
 
 public class Main {
     public static void main(String[] args) {

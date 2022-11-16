@@ -1,4 +1,4 @@
-package comparingPoints;
+package comparing.comparingPoints;
 
 import java.util.Objects;
 

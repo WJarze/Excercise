@@ -1,4 +1,5 @@
 package repeats;
+import collection.hashMap.repeats.Repeats;
 import org.junit.Test;
 
 import org.junit.Assert;

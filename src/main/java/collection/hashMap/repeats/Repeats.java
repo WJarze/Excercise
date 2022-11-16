@@ -1,4 +1,4 @@
-package repeats;
+package collection.hashMap.repeats;
 
 import java.util.Arrays;
 import java.util.Collections;

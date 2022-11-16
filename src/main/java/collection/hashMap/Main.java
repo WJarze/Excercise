@@ -10,7 +10,6 @@ public class Main {
     final static Logger logger = LoggerFactory.getLogger(Main.class);
 
     public static void main(String[] args) {
-        logger.info("Hello World");
         Random rand = new Random();
 
         Map<Integer, Integer> nums = new HashMap<>();
@@ -24,20 +23,7 @@ public class Main {
             nums.put ( num, frequency==null ? 1 : frequency+1 );
             System.out.println (num );
         }
-        System.out.println (nums );
-/*
-        System.out.println("Get key: " + nums.get("Volvo"));
-// Remove key: Panda
-        System.out.println("Remove key: " + nums.remove("Fiat"));
-// Size: 2
-        System.out.println("Size: " + nums.size());
-// isEmpty: false
-        System.out.println("isEmpty: " + nums.isEmpty());
-// containsKey: true
-        System.out.println("containsKey: " + nums.containsKey("Volkswagen"));
-// containsValue: true
-        System.out.println("containsValue: " + nums.containsValue("Golf"));
+        logger.info ( nums.toString ( ) );
 
- */
     }
 }

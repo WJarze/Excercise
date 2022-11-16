@@ -1,4 +1,4 @@
-package sortSing;
+package sorting.sortSing;
 
 public class Sing implements Comparable<Sing>{
     String title;

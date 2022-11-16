@@ -15,7 +15,7 @@ public class Square {
     public boolean equals(Object o) {
         if ( this == o ) return true;
         if ( !(o instanceof Square square) ) return false;
-        return Double.compare ( square.side , side ) == 0;
+        return square.side == side;
     }
 
     @Override
