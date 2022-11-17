@@ -1,4 +1,4 @@
-package random.LottoGenerator;
+package random.RandomNumbersGenerator;
 
 import java.util.List;
 import java.util.Random;
@@ -10,7 +10,9 @@ public class Generator {
     }
 
     public List<Integer> randomNumbers(ConditionsNumbers conditionsNumbers) {
-        return rand.ints ( conditionsNumbers.getSize ( ) , conditionsNumbers.getOrigin ( ) , conditionsNumbers.getBounds ( ) )
+        return rand.ints ( conditionsNumbers.getSize ( )
+                        , conditionsNumbers.getOrigin ( )
+                        , conditionsNumbers.getBounds ( ) )
                 .boxed ( )
                 .toList ( );
     }

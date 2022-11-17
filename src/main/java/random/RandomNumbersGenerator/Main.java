@@ -1,4 +1,4 @@
-package random.LottoGenerator;
+package random.RandomNumbersGenerator;
 
 import java.util.Random;
 

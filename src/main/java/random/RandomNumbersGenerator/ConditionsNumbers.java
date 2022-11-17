@@ -1,4 +1,4 @@
-package random.LottoGenerator;
+package random.RandomNumbersGenerator;
 
 public class ConditionsNumbers {
     private int origin;
@@ -12,7 +12,7 @@ public class ConditionsNumbers {
     }
 
     public int getOrigin() {
-        return origin;
+        return origin + 1;
     }
 
     public int getBounds() {

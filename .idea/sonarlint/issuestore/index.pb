@@ -1,8 +1,6 @@
 
 Y
 )src/main/java/SumOfDivisor/calculate.java,b\7\b728dd3b3b446b18754f04e7a45442155a2b09ba
-S
-#src/main/java/SortSing/Jukebox.java,4\6\4674ead1fdab0b2c4a61f80fe00ffb605c724965
 Z
 *src/main/java/SumOfDivisor/SumDivisor.java,a\9\a954cce6ddb5ab8a5346acf398fe02be98f1ed4f
 :
@@ -10,8 +8,6 @@ Z
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 T
 $src/main/java/SumOfDivisor/Main.java,0\1\01494be87a9009f687c7979a3345fc6558f933ef
-P
- src/main/java/SortSing/Sing.java,a\7\a7667b5d5909574b854416edcec82cb320624f3e
 @
 SingListCopy.txt,5\8\5800fda25560cde2c4584dd2e82402e58794fb95
 R
@@ -20,10 +16,6 @@ V
 &src/main/java/fibonacci/Fibonacci.java,5\b\5b265ac2dc62af860a7ed104fe97eb9a5aecdf89
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-S
-#src/main/java/sortSing/Jukebox.java,e\1\e1fdaa2a90b7f1dceba73aa16684c6423d27926b
-P
- src/main/java/sortSing/Sing.java,2\8\2809927cada79b1b1d564d9a0b6e5ea95e800ff8
 <
 SingList.txt,e\e\eef331097eae51b57e32e6712b60185f8eb1692c
 b
@@ -36,8 +28,6 @@ Y
 )src/main/java/overlappingFigure/Main.java,1\5\15e52bb4284c809b949f0a132e89c15178c239e8
 R
 "src/test/java/SumTest/SumTest.java,b\e\be816e8a790efb78254b1dd9266c28d5a6659d39
-]
--src/main/java/SearchingTheWords/WordList.java,2\0\209fd22a0a0372e9f8c52584c2db11bfcfe23e12
 ]
 -src/test/java/SearchingTheWords/TextTest.java,f\0\f02b555c6084059b9ab4a38015f10b83dec43e01
 K
@@ -94,8 +84,6 @@ Z
 *src/main/java/io/readFromConsole/Main.java,6\e\6e6ecc2ddf0b5e720833cb942a594f16e5035279
 Z
 *src/main/java/io/readFromConsole/Read.java,0\2\0213a85b76f70f904bfc2a94a5ca44b7b815f639
-P
- src/main/java/copyFile/Main.java,c\4\c4e4a4ae21880a503fd5b823bcf312f889eba282
 N
 src/main/java/Enum/MyEnum.java,0\a\0a6fea382df1faa07e373acc59353358cc756c32
 T
@@ -120,10 +108,6 @@ d
 4src/main/java/collection/arrayList/update/Users.java,3\e\3e01a88a19ff1e59e0e9f358f2ca3bb0cbbea99d
 e
 5src/main/java/collection/arrayList/create/Points.java,e\d\ed383205a330235739a99a9c60e887b5adc52a9a
-W
-'src/main/java/comparingPoints/Main.java,d\3\d3f08cef9d8f9cc15f2a9fd9e86013288db35476
-X
-(src/main/java/comparingPoints/Point.java,6\f\6f23113756fa43e29d0aa1104f7e78ec416ca11c
 c
 3src/main/java/collection/arrayList/update/User.java,3\d\3dc228539583a527702ecfe5ba9a7cbf8c7ed38c
 e
@@ -234,3 +218,39 @@ U
 %src/main/java/date/unixtime/Unix.java,5\2\524bee2a95ec0fc569332c69a14b3706e7fbffe8
 g
 7src/main/java/collection/arrayList/joinarray/Array.java,9\4\94159873dde0f0f173ca7176a8f33682d4a77137
+c
+3src/main/java/array/addArray/AddElementToArray.java,1\6\1692d1f34cc2098a7a0e8304bd26c7bfb40a6193
+W
+'src/main/java/random/generate/Main.java,2\2\221c128e49119c5389fddf439366adefedc20270
+S
+#src/main/java/io/copyFile/Copy.java,f\c\fcabcbbbe93be63836f6afd2ef4cb650473c8ae2
+T
+$src/test/java/copyFile/CopyTest.java,a\4\a479f97ae020474ed8906de47ac2da35b97568e5
+[
++src/main/java/sorting/sortSing/Jukebox.java,5\8\58d891d4c91d55cfcbb2cf4d3699951d1eb211f7
+q
+Asrc/main/java/collection/arrayList/reapetscharforstring/Main.java,5\c\5ccc230c51096b464e97a94f585f6fe2e9643e62
+b
+2src/main/java/collection/hashMap/repeats/Main.java,f\a\fac6a405213b94486f58496d0b5e1f5a20b4fd18
+Z
+*src/main/java/collection/hashMap/Main.java,2\5\25a1dbdc015fe04f7b8c05a6683d694bc181cef9
+k
+;src/main/java/collection/hashSet/filtervarisvalue/Main.java,7\a\7a748dc6eb68f4c19f92b623417540abf3241628
+a
+1src/main/java/comparing/comparingPoints/Main.java,b\e\bee21b6a6451932317bad26e34d04e7e821fde3c
+S
+#src/main/java/io/copyFile/Main.java,d\4\d4207b11c6d9ea9af9d4e67d574214e844cdeb50
+X
+(src/main/java/sorting/sortSing/Main.java,6\7\67125a9080222ce5e51d4e50cc1c4521d9161003
+[
++src/main/java/string/equalsstring/Main.java,7\2\72f15eb7d000fa00630c3868c08fec6ae2421626
+b
+2src/main/java/comparing/comparingPoints/Point.java,2\1\212daa0a6fac4a50ebfabb9b28204ee4841bf644
+e
+5src/main/java/collection/hashMap/repeats/Repeats.java,4\b\4b5c376eb808e4bf7b698f4c18f6f023753a7497
+V
+&src/test/java/repeats/RepeatsTest.java,3\d\3d4706e313955cd3ab3c872a60b8c0013d69855d
+X
+(src/main/java/sorting/sortSing/Sing.java,2\5\25b5419847b02b1885cd6beac761b669c4827ae7
+m
+=src/main/java/collection/hashSet/filtervarisvalue/Square.java,8\6\86101074c5b9a5874c88be9376a203ee3d580915
