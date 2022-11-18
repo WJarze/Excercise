@@ -24,8 +24,6 @@ Z
 *src/test/java/fibonacci/FibonacciTest.java,7\6\76b6daf30a1b63792b7e70550fb0c2af9618703e
 Z
 *src/test/java/factorial/CalculateTest.java,f\4\f440a4a89d7d9b0ac57242b35f10acac1e75b39c
-Y
-)src/main/java/overlappingFigure/Main.java,1\5\15e52bb4284c809b949f0a132e89c15178c239e8
 R
 "src/test/java/SumTest/SumTest.java,b\e\be816e8a790efb78254b1dd9266c28d5a6659d39
 ]
