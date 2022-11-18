@@ -1,18 +1,18 @@
 package random.RandomNumbersGenerator;
 
-public class ConditionsNumbers {
+public class NumbersConditions {
     private int origin;
     private int bounds;
     private int size;
 
-    public ConditionsNumbers(int size , int origin , int bounds) {
+    public NumbersConditions(int size , int origin , int bounds) {
         this.size = size;
         this.origin = origin;
         this.bounds = bounds;
     }
 
     public int getOrigin() {
-        return origin + 1;
+        return origin;
     }
 
     public int getBounds() {

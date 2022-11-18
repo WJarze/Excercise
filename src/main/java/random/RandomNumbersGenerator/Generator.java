@@ -1,25 +1,24 @@
 package random.RandomNumbersGenerator;
 
-import java.util.List;
 import java.util.Random;
+import java.util.stream.IntStream;
 
 public class Generator {
     private final Random rand;
+
     public Generator(Random rand) {
         this.rand = rand;
     }
 
-    public List<Integer> randomNumbers(ConditionsNumbers conditionsNumbers) {
-        return rand.ints ( conditionsNumbers.getSize ( )
-                        , conditionsNumbers.getOrigin ( )
-                        , conditionsNumbers.getBounds ( ) )
+    public void randomNumbers(NumbersConditions numbersConditions) {
+        IntStream.generate ( () -> {
+                    return (rand.nextInt ( numbersConditions.getOrigin ( ) , numbersConditions.getBounds ( ) ));
+                } )
+                .distinct ( )
+                .limit ( numbersConditions.getSize ( ) )
                 .boxed ( )
-                .toList ( );
-    }
-
-    void showRandomNumbers(List<Integer> list) {
-        for (Integer numbers : list) {
-            System.out.println ( numbers );
-        }
+                .toList ( )
+                .forEach ( System.out::println );
     }
 }
+
