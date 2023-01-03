@@ -1,5 +1,5 @@
 # Exercises 
-**This they are simple exercise in java language , and tests to them**
+**This they are exercise in java language , and tests to them**
 ## Built With
 - Java
 

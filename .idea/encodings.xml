@@ -2,9 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/SingListCopy.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/array/IndexTableElement/Index.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/array/IndexTableElement/Main.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org.wjarze.excercise/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org.wjarze.excercise/java/array/IndexTableElement/Index.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org.wjarze.excercise/java/array/IndexTableElement/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org.wjarze.excercise/resources" charset="UTF-8" />
   </component>
 </project>
